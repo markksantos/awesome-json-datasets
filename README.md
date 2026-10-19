@@ -24,6 +24,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Travel](#travel)
 * [TV Shows](#tv-shows)
 * [Movies](#movies)
+* [Video](#video)
 * [Open Source Licenses](#open-source-licenses)
 * [More Awesome Lists](#more-awesome-lists)
 * [Contributing](#contributing)
@@ -258,6 +259,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 * [Showtime](http://showtimes.everyday.in.th/api/v2/)
   * [Current Movies in Thailand](http://showtimes.everyday.in.th/api/v2/movie/)
   * [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
+
+## Video
+* [Caption Reading Speed per Video](https://www.markstudios.com/data/caption-reading-speed.json) *(387 NASA and MIT OpenCourseWare videos measured against Netflix, BBC and DCMP caption limits)*
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
